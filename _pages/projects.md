@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-**An instructional support system for classroom teaching.(Currently still in production)**
+**An instructional support system for classroom teaching. (Currently still in production)**
 
 [ProGenius](https://ooad-front-end.vercel.app/)
 ![img](/images\progenius.png)
