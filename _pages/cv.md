@@ -9,51 +9,52 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+- **Email:** [chengsz2021@mail.sustech.edu.cn](mailto:chengsz2021@mail.sustech.edu.cn)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## EDUCATION
+**Southern University of Science and Technology (SUSTech)**, Sept. 2021 -Jun. 2025  
+Bachelor of Engineering in Computer Science (Turing Honors Program)  
+Overall GPA: 3.76/4.0
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## RESEARCH EXPERIENCE
+**Feb. 2023 – Present**  
+- Leading a research project aims to analyze non-verbal interactions between students and teachers, in conjunction with a large language model that analyzes the textual content of a teacher's lecture. The goal is to develop an interactive teaching behavior analysis interface that provides efficient feedback to teachers.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**Feb. 2023 – Present**  
+- Exploring the development of visualization tools to assist researchers in the field of large language model multi-agents(Involving AutoGen, AutoGPT, etc.).  
+- Deployed multiple large language models locally and written D3.js programs to embed and visualize datasets.
+
+**Feb. 2023 –Jun. 2023**  
+- Led a project focused on visualizing large-scale user comments data from the Stack Overflow website, showcased through the project repository.  
+  [Stack Overflow Data Visualization](https://github.com/Sparky579/Stackoverflow-data)
+
+**Feb. 2023 –Jun. 2023**  
+- Engaged in designing a single-cycle CPU compatible with the MIPS32 instruction set, implementing functionalities excluding floating-point operations and exception handling.  
+- Implemented modular design for potential pipeline integration.  
+- Contributed to video processing with compressed keyframes and differential frames support. Successfully tested on FPGA hardware and screens (Using VGA to connect).  
+- Personally handled encoding and debugging of major external IO devices.  
+  [Computer Organization Project](https://github.com/IskXCr/CS202-CS214-Computer-Organization-Project)
+
+**Feb. 2022–Feb. 2023**  
+- Participated in the algorithm competition, showcasing expertise in various algorithms and data structures, and achieved two silver medals in Asia regional ICPC contests.
+
+**Sept. 2022–Feb. 2023**  
+- Designed a C++ Program that facilitates matrix multiplication across different data types, and increase efficiency using optimizations including loop restructuring, multi-threading, and Single Instruction Multiple Data(SIMD).  
+- These amplify the program’s runtime efficiency by several orders of magnitude.  
+  [CS205-Project4](https://github.com/Sparky579/CS205-Project4)  
+  [CS205-Project5](https://github.com/Sparky579/CS205-Project5)
+
+**Sept. 2021–Feb. 2022**  
+- Implemented a human-computer interaction interface for the game of Othello (also known as Reversi) using Java and swing. Additionally, integrated an AI opponent powered by Min-Max algorithm.
+
+## PROFESSIONAL SKILLS
+**Programming Languages:**  
+Java (including Springboot), C/C++, Python, SQL, Verilog, Assembly language (MIPS, RISC-V)  
+HTML, CSS, Javascript, Vue, React (with next.js), D3.js
+
+**Data Structures and Algorithms:**  
+Segment Tree, Splay Tree, Disjoint Set Union (Union-Find), Suffix Array, Dijkstra’s Algorithm, A* Algorithm, Minmax Algorithm (including Alpha-Beta Pruning), Network Flow Algorithms, Dynamic Programming. Familiar with several design patterns, such as Model-View-Controller, Decorator Pattern and Command Pattern.
+
+**English Skills:**  
+TOEFL score 99 (Reading 29, Listening 25, Speaking 20, Writing 25)  
+GRE score 323 (Verbal 155, Quantitative 168)

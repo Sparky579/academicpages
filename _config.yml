@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Academic page"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Cheng Sizhe"
 description              : &description "personal description"
 url                      : https://wondrous-genie-b210bc.netlify.app # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,11 +83,11 @@ author:
   name             : "Cheng Sizhe"
   avatar           : "profile.png"
   bio              : "Undergraduate student at SUSTech(Southern University of Science and Technology)"
-  location         : # "Location"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "chengsz2021@mail.sustech.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
